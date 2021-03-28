@@ -3,7 +3,7 @@ build
 .DS_Store
 .idea
 config/*
-
+.env
 
 # dependencies
 /.pnp
